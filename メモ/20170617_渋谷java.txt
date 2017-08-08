@@ -1,20 +1,15 @@
 
-PredictionIO
+■PredictionIO
   機械学習基盤
   http://qiita.com/KIKUYA-Takumi/items/5f70273edcf6f819c71e
 
-LocalStack
+■LocalStack
   Docker上にAWSのサービスのローカル環境を構築できる
   http://qiita.com/kojiisd/items/8d7b98fb7f3c8f871f96
   http://maroyaka.hateblo.jp/entry/2017/04/28/175712
-  
+
   エラーのインジェクションも可能
   AWSにデプロイなしに実装フェーズからテストができる
-  
+
   今：AWSにサービスを立ち上げてローカルからつなげる
   LocalStack：ローカル環境で完結できる
-  
-  
-  
-  
-
